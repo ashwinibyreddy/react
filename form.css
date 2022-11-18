@@ -1,0 +1,106 @@
+.App {
+   background-color: white;
+   height: 100vh;
+}
+
+.form {
+   font-size: 40px;
+   font-family: "Roboto";
+   font-weight: bold;
+   text-align: center;
+   color: blue;
+}
+
+.Heading-names {
+   color: black;
+   font-size: 20px;
+   text-align: center;
+   padding-top: 10px;
+   margin-left: 35px;
+
+}
+
+.Heading-mobile {
+   color: black;
+   font-size: 20px;
+   text-align: center;
+   padding-top: 10px;
+   margin-left: 80px;
+
+}
+
+.Heading-email {
+   color: black;
+   font-size: 20px;
+   text-align: center;
+   padding-top: 10px;
+   margin-right: 15px;
+
+}
+
+.Heading-password {
+   color: black;
+   font-size: 20px;
+   text-align: center;
+   padding-top: 10px;
+   margin-left: 20px;
+
+}
+
+.paragraph {
+   color: black;
+   font-size: 15px;
+   text-align: center;
+   margin-left: 150px;
+}
+
+
+.paragraph-account {
+   color: black;
+   font-size: 20px;
+   text-align: center;
+   margin-left: 230px;
+}
+
+.login {
+   color: blue;
+   font-size: 20px;
+   margin-left: 10px;
+
+
+}
+
+.Box {
+   height: 35px;
+   width: 350px;
+   margin-left: 250px;
+
+
+}
+
+.container {
+   position: absolute;
+   left: 28px;
+   top: 50px;
+   margin: 20px;
+   max-width: 300px;
+   padding: 16px;
+}
+
+.button {
+   color: white;
+   font-size: 20px;
+   font-weight: bold;
+   height: 50px;
+   width: 140px;
+   border-radius: 10px;
+   margin-left: 250px;
+   margin-bottom: 20px;
+}
+
+.submit {
+   background-color: darkturquoise;
+   text-decoration: underline;
+   margin: 50px;
+   height: 100vh
+}
