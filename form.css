@@ -99,8 +99,32 @@
 }
 
 .submit {
-   background-color: darkturquoise;
    text-decoration: underline;
    margin: 50px;
-   height: 100vh
+
+}
+
+.back-button {
+   height: 50px;
+   width: 250px;
+   font-size: 30px;
+   background-color: black;
+   color: white;
+   margin-top: 20px;
+
+
+
+}
+
+.nextpage {
+   height: 100vh;
+}
+
+.display-details {
+   color: blue;
+   font-size: 20px;
+   text-align: center;
+   padding-top: 10px;
+   margin-left: 35px;
+
 }
